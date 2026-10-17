@@ -11,6 +11,6 @@
 
 git clone --depth 1 https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 git clone --depth 1 https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
-git clone --depth 1 https://github.com/sirpdboy/luci-app-netspeedtest package/netspeedtest
+git clone --depth 1 https://github.com/sirpdboy/NetSpeedTest package/netspeedtest
 
 
